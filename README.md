@@ -1,5 +1,11 @@
-Android-Google-Voice-Locations
+RyanNiehaus's fork of Android-Google-Voice-Locations
 ==============================
+
+[![Build Status](https://travis-ci.org/ryanniehaus/Android-Google-Voice-Locations.svg?branch=master)](https://travis-ci.org/ryanniehaus/Android-Google-Voice-Locations)
+
+Note that this is my first foray into open source projects... same licensing as the origin repo
+
+
 
 Location Awareness for Google Voice and a Dialer
 
