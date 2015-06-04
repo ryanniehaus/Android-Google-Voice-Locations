@@ -5,7 +5,8 @@ android:
     - android-22
     - extra-android-support
     - extra-google-google_play_services
-    - addon-google_apis-google-19
+    - addon-google_apis-google-3
+    - extra-google-admob_ads_sdk
     
-before_script:
-  - android list sdk --no-ui --all --extended
+#before_script:
+#  - android list sdk --no-ui --all --extended
