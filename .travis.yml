@@ -3,8 +3,11 @@ android:
   components:
     - build-tools-22.0.1
     - android-22
+    - android-3
     - add-on
     - extra
+    - tools
+    - platform-tools
     
 #before_script:
 #  - android list sdk --no-ui --all --extended
